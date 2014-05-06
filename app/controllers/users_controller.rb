@@ -9,7 +9,8 @@ class UsersController < ApplicationController
 
   # GET /users/1
   # GET /users/1.json
-  def show
+  def show 
+    we will put rad code in here later
   end
 
   # GET /users/new
